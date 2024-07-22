@@ -235,6 +235,12 @@ footer p a {
         padding: 24px 25px 128px 25px;
     }
 
+    .botoes {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
     .imagensClinica {
         width: 100%;
         height: auto;
