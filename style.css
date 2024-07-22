@@ -198,7 +198,7 @@ footer p a {
     }
 
     .botaoMenu {
-        background-image: url(/img/icon-menu.svg);
+        background-image: url(img/icon-menu.svg);
         background-position: center;
         background-repeat: no-repeat;
         width: 20px;
@@ -226,7 +226,7 @@ footer p a {
       }
     
       .botao__menu__x {
-        background-image: url(/img/icon-x.png);
+        background-image: url(img/icon-x.png);
     
       }
 
